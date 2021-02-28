@@ -14,7 +14,7 @@ Supposing you have already a Heroku account and you have the [Heroku CLI](https:
 
 ```sh
 # clone this repository
-$ git clone https://github.com/serl/ttrss-heroku.git && cd ttrss-heroku
+$ git clone https://github.com/10362227/ttrss-heroku.git && cd ttrss-heroku
 
 # create the application (names are unique on the platform)
 $ heroku create my-fancy-ttrss
